@@ -1,0 +1,12 @@
+_deps
+asio*
+CMakeFiles
+CMakeCache.txt
+*.cmake
+cpr*
+websocketpp*
+lib
+GaryBotV2
+Makefile
+deps
+Token.*pp
